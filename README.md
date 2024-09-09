@@ -21,4 +21,4 @@ A Bit About Me:
 
  - 📫 How to reach me: oluwadamilare_daniel@outlook.com
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss,vue)](https://skillicons.dev)
