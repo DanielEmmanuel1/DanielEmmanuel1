@@ -3,8 +3,11 @@ Hi there, I'm Deon, a frontend web engineer and blockchain enthusiast with a pas
 
 A Bit About Me:
  -👨‍🎓 Computer Science Bsc
+ 
  -✍ Frontend Web Developer
+ 
  -👨‍🏫 Ex Community manager @Credix
+ 
  -💬 Ex Devrel @Imaginerative
 
  -🔭 I’m currently working on Peer Protocol
