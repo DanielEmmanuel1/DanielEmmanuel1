@@ -18,7 +18,7 @@ A Bit About Me:
  -⚡ Fun fact: I love gaming
  
  - 👯 I’m looking to collaborate on any cool web3 product(Frontend)
- - 
+
  - 📫 How to reach me: oluwadamilare_daniel@outlook.com
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss)](https://skillicons.dev)
