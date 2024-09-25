@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Odyssey👋!
-Hi there, I'm Deon, a frontend web engineer and blockchain enthusiast with a passion for programming. My meticulous attention to detail inspires me to create user interfaces that make a meaningful impact.
+Hi there, I'm Deon, a Web engineer & Blockchain developer with a passion for programming. My meticulous attention to detail inspires me to create user interfaces that make a meaningful impact.
 
 A Bit About Me:
 
