@@ -5,7 +5,7 @@ A Bit About Me:
 
  -👨‍🎓 Computer Science Bsc
  
- -✍ Frontend Web Developer
+ -✍ Web &  Blockchain Developer
  
  -👨‍🏫 Ex Community manager @Credix
  
