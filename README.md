@@ -1,7 +1,6 @@
 ## Welcome to My GitHub Odyssey👋!
 Hi there, I'm Deon, a Web engineer & Blockchain developer with a passion for programming. My meticulous attention to detail inspires me to create user interfaces that make a meaningful impact.
 
-[![](https://visitcount.itsvg.in/api?id=Deon&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 A Bit About Me:
 
  -👨‍🎓 Computer Science Bsc
