@@ -21,7 +21,10 @@ A Bit About Me:
  
  - 👯 I’m looking to collaborate on any cool web3 product(Frontend)
 
- - 📫 How to reach me: oluwadamilare_daniel@outlook.com
+ - 📫 How to reach me:
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/emmanuel-daniel-42880012b/))
+   [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-username](https://x.com/Deontrm))
+   [![Outlook](https://img.shields.io/badge/Email-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:oluwadamilare_daniel@outlook.com)
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss,vue)](https://skillicons.dev)
 
