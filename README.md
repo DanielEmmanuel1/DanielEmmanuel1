@@ -24,3 +24,7 @@ A Bit About Me:
  - 📫 How to reach me: oluwadamilare_daniel@outlook.com
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss,vue)](https://skillicons.dev)
+
+
+  ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blueviolet?logo=github&logoColor=white)
+
