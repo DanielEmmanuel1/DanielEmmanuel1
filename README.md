@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Odyssey👋!
 Hi there, I'm Deon, a Web engineer & Blockchain developer with a passion for programming. My meticulous attention to detail inspires me to create user interfaces that make a meaningful impact.
 
-[![](https://visitcount.itsvg.in/api?id=Deon&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Deon&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)   ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blueviolet?logo=github&logoColor=white)
 
 A Bit About Me:
 
@@ -24,7 +24,4 @@ A Bit About Me:
  - 📫 How to reach me: oluwadamilare_daniel@outlook.com
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss,vue)](https://skillicons.dev)
-
-
-  ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blueviolet?logo=github&logoColor=white)
 
