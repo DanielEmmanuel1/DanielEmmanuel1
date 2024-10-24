@@ -28,6 +28,6 @@ A Bit About Me:
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielEmmanuel1&theme=tokyonight" alt="DanielEmmanuel1" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielEmmanuel1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=html,css&langs_count=10&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="DanielEmmanuel1" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielEmmanuel1&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="DanielEmmanuel1" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielEmmanuel1&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="DanielEmmanuel1" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielEmmanuel1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=html,css&langs_count=10&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="DanielEmmanuel1" /></p>
