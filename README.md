@@ -4,7 +4,7 @@
 
 Hey there! I'm a passionate Web Engineer and Blockchain Developer with a BSc in Computer Science. I specialize in creating intuitive user interfaces that blend functionality with impact.
 
-Currently building **Peer Protocol** and diving deeper into **Rust** and **Cairo**.
+Currently building **Peer Protocol & Spherre** and diving deeper into **Rust** and **Cairo**.
 
 ## 🛠️ Skills & Technologies
 
