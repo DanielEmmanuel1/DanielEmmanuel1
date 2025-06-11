@@ -29,7 +29,6 @@ Currently building **Peer Protocol & Spherre** and diving deeper into **Rust** a
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielEmmanuel1&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielEmmanuel1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ## 🤝 Let's Connect
