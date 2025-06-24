@@ -125,11 +125,11 @@ const deon = {
 <img src="https://github.com/user-attachments/assets/e2cb9a9c-cceb-4da5-8659-7efbaef12ace" alt="Streamfi" width="60" height="60" style="border: none;">
 </a>
 
-<a href="https://github.com/0xdevcollins/boundless" style="text-decoration: none; border: none;">
+<a href="https://github.com/username/repo5](https://github.com/Crypto-Jaguars/Revolutionary-Farmers" style="text-decoration: none; border: none;">
 <img src="https://github.com/user-attachments/assets/055d1490-4ddf-4e67-b8d9-1d70306b7f5b" alt="Revolutionary Farmers" width="60" height="60" style="border: none;">
 </a>
 
-<a href="[https://github.com/username/repo5](https://github.com/Crypto-Jaguars/Revolutionary-Farmers)" style="text-decoration: none; border: none;">
+<a href="https://github.com/0xdevcollins/boundless" style="text-decoration: none; border: none;">
 <img src="https://github.com/user-attachments/assets/3e64b63b-ecf9-4dfb-bcae-fa050514f903" alt="Boundless" width="60" height="60" style="border: none;">
 </a>
 
