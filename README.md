@@ -20,14 +20,12 @@ const deon = {
     title: "Web & Blockchain Engineer",
     education: "BSc Computer Science",
     location: "🌍 Building from anywhere",
-    currentFocus: ["Peer Protocol", "Spherre"],
-    learningNow: ["Rust 🦀", "Cairo 🏛️"],
+    currentFocus: ["Spherre"],
+    learningNow: ["Rust 🦀", "Solidity 🏛️"],
     passion: "Creating intuitive UIs that blend functionality with impact",
     motto: "Code with purpose, build with passion! 💯"
 };
 ```
-
-<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-ced0e67d-d285-4908-a965-9c06e6d69480.gif" width="30" /> Tech Arsenal
 
@@ -99,14 +97,10 @@ const deon = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielEmmanuel1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielEmmanuel1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276f2c8c-9ac0-4726-85ba-10e7f21fd14b.png" alt="Trophy" width="30" /> GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
   
@@ -114,19 +108,37 @@ const deon = {
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
-[![Spherre](https://github.com/DanielEmmanuel1/spherre-dapp)
+<a href="https://github.com/Spherre-Labs/spherre" style="text-decoration: none; border: none;">
+<img src="https://github.com/user-attachments/assets/89c4e2ab-8b7d-4f02-8bfc-358999f25121" alt="Spherre" width="60" height="60" style="border: none;">
+</a>
 
-*Building the future of decentralized peer-to-peer interactions* 🚀
+<a href="https://github.com/paradigmxyz/reth" style="text-decoration: none; border: none;">
+<img src="https://github.com/user-attachments/assets/27dac898-3add-483f-bb8c-db05fa00a7f8" alt="Reth" width="60" height="60" style="border: none;">
+</a>
+
+<a href="https://github.com/StreamFi-x/streamfi" style="text-decoration: none; border: none;">
+<img src="https://github.com/user-attachments/assets/e2cb9a9c-cceb-4da5-8659-7efbaef12ace" alt="Streamfi" width="60" height="60" style="border: none;">
+</a>
+
+<a href="https://github.com/0xdevcollins/boundless" style="text-decoration: none; border: none;">
+<img src="https://github.com/user-attachments/assets/055d1490-4ddf-4e67-b8d9-1d70306b7f5b" alt="Revolutionary Farmers" width="60" height="60" style="border: none;">
+</a>
+
+<a href="[https://github.com/username/repo5](https://github.com/Crypto-Jaguars/Revolutionary-Farmers)" style="text-decoration: none; border: none;">
+<img src="https://github.com/user-attachments/assets/3e64b63b-ecf9-4dfb-bcae-fa050514f903" alt="Boundless" width="60" height="60" style="border: none;">
+</a>
+
+<a href="https://github.com/username/repo6" style="text-decoration: none; border: none;">
+<img src="https://github.com/user-attachments/assets/bdbaf255-b920-4acc-bbc7-d7c2c9e18a50" alt="ByteBeasts" width="60" height="60" style="border: none;">
+</a>
 
 </div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Handshake" width="30" /> Let's Connect & Collaborate
-
-<div align="center">
+</div>
 
 ### Looking to collaborate on innovative Web3 projects with a Frontend focus! 🤝
 
