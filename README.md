@@ -1,44 +1,180 @@
-# Deon | Web & Blockchain Engineer
-
-## 👨‍💻 About Me
-
-Hey there! I'm a passionate Web Engineer and Blockchain Developer with a BSc in Computer Science. I specialize in creating intuitive user interfaces that blend functionality with impact.
-
-Currently building **Peer Protocol & Spherre** and diving deeper into **Rust** and **Cairo**.
-
-## 🛠️ Skills & Technologies
+# <div align="center">🚀 Deon | Web & Blockchain Engineer 🚀</div>
 
 <div align="center">
   
-  [![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,bootstrap,scss,vue)](https://skillicons.dev)
-  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+I'm+Deon+%F0%9F%91%8B;Passionate+Web+%26+Blockchain+Developer;Building+the+Future+with+Code+%E2%9C%A8)](https://git.io/typing-svg)
+
 </div>
-
-## 🚀 Experience
-
-- 👨‍🏫 Ex-Community Manager [@Credix](https://credix.finance/)
-- 💬 Ex-DevRel [@Imaginerative](https://imaginerative.co/)
-- 🔭 Currently building [Peer Protocol](https://github.com/peer-protocol)
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielEmmanuel1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🤝 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> About Me
 
-I'm looking to collaborate on innovative Web3 projects (Frontend focus)!
+<img align="right" alt="Developer working" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-daniel-42880012b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Deontrm)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oluwadamilare_daniel@outlook.com)
+```typescript
+const deon = {
+    name: "Emmanuel Daniel",
+    title: "Web & Blockchain Engineer",
+    education: "BSc Computer Science",
+    location: "🌍 Building from anywhere",
+    currentFocus: ["Peer Protocol", "Spherre"],
+    learningNow: ["Rust 🦀", "Cairo 🏛️"],
+    passion: "Creating intuitive UIs that blend functionality with impact",
+    motto: "Code with purpose, build with passion! 💯"
+};
+```
 
-## ⚡ Fun Fact
+<br/>
 
-When I'm not coding, you'll find me gaming and exploring new technologies!
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-ced0e67d-d285-4908-a965-9c06e6d69480.gif" width="30" /> Tech Arsenal
+
+<div align="center">
+
+### 🎯 Frontend Mastery
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+
+</div>
+
+### ⛓️ Blockchain & Web3
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&logoWidth=20)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&logoWidth=20)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20)
+
+</div>
+
+### 🔄 Currently Exploring
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+[![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+![Cairo](https://img.shields.io/badge/Cairo-FF4500?style=for-the-badge&logo=cairo&logoColor=white&logoWidth=20)
+
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Rocket" width="30" /> Professional Journey
+
+<div align="center">
+
+| 🏢 Experience | 🔗 Organization | 📍 Role |
+|---------------|-----------------|----------|
+| **Community Leadership** | [Credix Finance](https://credix.finance/) | Ex-Community Manager 👨‍🏫 |
+| **Developer Relations** | [Imaginerative](https://imaginerative.co/) | Ex-DevRel 💬 |
+| **Current Building** | [Spherre](https://github.com/peer-protocol](https://github.com/Spherre-Labs)) | Founder & Lead Developer 🔭 |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Graph" width="30" /> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielEmmanuel1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEmmanuel1&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielEmmanuel1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielEmmanuel1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276f2c8c-9ac0-4726-85ba-10e7f21fd14b.png" alt="Trophy" width="30" /> GitHub Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanielEmmanuel1&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Featured Projects
+
+<div align="center">
+
+[![Spherre](https://github.com/DanielEmmanuel1/spherre-dapp)
+
+*Building the future of decentralized peer-to-peer interactions* 🚀
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Handshake" width="30" /> Let's Connect & Collaborate
+
+<div align="center">
+
+### Looking to collaborate on innovative Web3 projects with a Frontend focus! 🤝
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/emmanuel-daniel-42880012b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20)](https://x.com/Deontrm)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoWidth=20)](mailto:oluwadamilare_daniel@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&logoWidth=20)](#)
+
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-7f004d42-8a3b-4915-8d70-b2b5f2b6b3e8.gif" width="400">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Lightning" width="30" /> Fun Zone
+
+<div align="center">
+
+```javascript
+const funFacts = {
+    whenNotCoding: ["🎮 Gaming", "🔍 Exploring new tech", "🚀 Building side projects"],
+    currentlyPlaying: "Latest indie games & AAA titles",
+    techCuriosity: "Always experimenting with cutting-edge frameworks!",
+    motto: "Every bug is just an undocumented feature waiting to be discovered! 😄"
+};
+```
+
+### 🎯 Coding Quote of the Day
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💫 "Building tomorrow's web, one commit at a time" 💫
+
+<img src="https://komarev.com/ghpvc/?username=DanielEmmanuel1&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**⭐ Star my repositories if you find them interesting!**
+
+[![GitHub followers](https://img.shields.io/github/followers/DanielEmmanuel1?label=Follow&style=social)](https://github.com/DanielEmmanuel1)
+
+</div>
