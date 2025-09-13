@@ -1,5 +1,3 @@
-# <div align="center">🚀 Deon | Web & Blockchain Engineer 🚀</div>
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+I'm+Deon+%F0%9F%91%8B;Passionate+Web+%26+Blockchain+Developer;Building+the+Future+with+Code+%E2%9C%A8)](https://git.io/typing-svg)
